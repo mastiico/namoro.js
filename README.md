@@ -1,0 +1,2 @@
+# namoro.js
+teste
