@@ -1,2 +1,2 @@
 # namoro.js
-teste
+🌾
